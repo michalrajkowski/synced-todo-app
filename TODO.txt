@@ -1,0 +1,4 @@
+File synchronization between devices:
+    - Syncthing folder
+        
+    - Git

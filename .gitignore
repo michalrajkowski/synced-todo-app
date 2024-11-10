@@ -1,0 +1,4 @@
+synced_data/*
+
+!synced_data/
+!synced_data/.gitkeep

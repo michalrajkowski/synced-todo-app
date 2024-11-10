@@ -1,0 +1,1 @@
+Knowledge bank + todo app that can be synchronized between multiple devices
